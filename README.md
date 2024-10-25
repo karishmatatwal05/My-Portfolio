@@ -1,5 +1,4 @@
-# My-Portfolio
-My Portfolio.
+My portfolio
 Responsive Personal Portfolio Website Using HTML CSS And JavaScript.
 Contains animations when scrolling.
 Smooth scrolling in each section.
